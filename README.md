@@ -20,7 +20,7 @@ This repository provides a template for using Playwright with Python to write en
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/playwright-python-template.git
+    git clone https://github.com/qa-chrisb/playwright-python-template.git
     cd playwright-python-template
     ```
 
