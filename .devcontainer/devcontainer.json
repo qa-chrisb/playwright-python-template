@@ -1,0 +1,16 @@
+{
+	"name": "Playwright Testing",
+	"image": "mcr.microsoft.com/playwright:v1.51.0-jammy",
+	"forwardPorts": [
+		9323
+	],
+	"postCreateCommand": "playwright install",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-playwright.playwright"
+			]
+		}
+	}
+}
