@@ -12,5 +12,8 @@
 				"ms-playwright.playwright"
 			]
 		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/desktop-lite:1": {}
 	}
 }
