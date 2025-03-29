@@ -14,7 +14,6 @@ This repository provides a template for using Playwright with Python to write en
 ## Prerequisites
 
 - Python 3.7 or higher
-- Node.js (for Playwright installation)
 - pip (Python package manager)
 
 ## Installation
@@ -59,4 +58,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the Un-License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unlicense License. See the [LICENSE](LICENSE) file for details.
